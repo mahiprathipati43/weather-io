@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://ik.imagekit.io/jgs1o8nrp/WhatsApp_Image_2023-07-19_at_15.25.59_g5By4zQXZ.jpeg?updatedAt=1689760794837');
+    /* Replace with your background image path */
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.container {
+    text-align: center;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+    max-width: 400px;
+    margin: 50px auto;
+}
+
+h1 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #1d1824;
+    font-family: cursor;
+    font-size: 50px;
+}
+
+input {
+    padding: 8px;
+    font-size: 16px;
+    width: 70%;
+    background-color: #e4d0f7;
+    color: #1a171c;
+}
+
+button {
+    padding: 8px 20px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+#weatherInfo {
+    margin-top: 25px;
+    text-align: left;
+    color: #301d1c;
+    font-weight: bold;
+    font-family: Sans-Serif;
+    font-size: 25px;
+    margin-bottom: 25px;
+    font-style: italic;
+    padding: 10px;
+}
